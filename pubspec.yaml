@@ -1,7 +1,8 @@
 name: elevenlabs_flutter
-description: A new Flutter package project.
+description: A lightweight wrapper for ElevenLabs API implemented in Flutter/Dart
 version: 0.0.1
-homepage: https://www.crtvdigital.com
+homepage: https://www.zachhandley.com
+repository: https://github.com/ZachHandley/elevenlabs_flutter
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
